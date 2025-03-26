@@ -1,0 +1,3 @@
+## EMPLOYEE MANAGEMENT SYSTEM
+### OUTPUT
+![Program output]()
